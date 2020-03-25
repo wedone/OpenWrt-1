@@ -1,0 +1,22 @@
+Package: luci-app-control-mia
+Version: 1.0-3-20190309
+Depends: libc
+Section: luci
+Architecture: all
+Installed-Size: 3149
+Filename: luci-app-control-mia_1.0-3-20190309_all.ipk
+Size: 3899
+SHA256sum: 56b7213955ce85c5d0ed555113d341488ea4dda1c40b8d96ed827aaf76251d28
+Description:  LuCI support for Mia From Koolshare
+
+Package: luci-app-control-webrestriction
+Version: 1.0-5-20200107
+Depends: libc
+Section: luci
+Architecture: all
+Installed-Size: 2932
+Filename: luci-app-control-webrestriction_1.0-5-20200107_all.ipk
+Size: 3727
+SHA256sum: 0fc96017716a9dfbd470da5ca45c35c724847c8d5d5b33cdb7d6085572e147eb
+Description:  LuCI support for Webrestriction From Koolshare
+
